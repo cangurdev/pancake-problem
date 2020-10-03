@@ -18,7 +18,7 @@ This famous problem is usually stated as follows: Pancake sorting is sorting a d
 
 ## Task 1 – Implementation
 
-In this homework, you will use source codes provided by AIMA textbook. You are free to use Java or Python as your programming language. After importing the AIMA libraries into your workspace, your job is to formulate and develop a solution to the pancake problem.
+In this homework, you will use source codes provided by [AIMA textbook](https://github.com/aimacode/aima-python). You are free to use Java or Python as your programming language. After importing the AIMA libraries into your workspace, your job is to formulate and develop a solution to the pancake problem.
 
 1. Your program should have a simple console-based menu which takes the number of pancakes(𝑁) from the user. You should also provide two options to the user for the initial ordering of 𝑁 pancakes:
 
